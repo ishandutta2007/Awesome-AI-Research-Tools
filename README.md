@@ -1,48 +1,60 @@
-# Awesome-AI-Research-Tools
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome AI Research Tools Banner" width="100%" />
+</p>
 
-## Top AI Research Tools Ecosystem
+# 🚀 Awesome AI Research Tools
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Research-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Research-Tools?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Research-Tools/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Research-Tools?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Research-Tools/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Research-Tools" alt="Open Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Research-Tools/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Research-Tools" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+<p align="center">
+  <strong>Curated Directory of Cutting-Edge AI Research Tools, Academic Search Engines, and Autonomous Science Agents</strong><br />
+  <em>Accelerate literature discovery, semantic synthesis, automated manuscript drafting, and citation intelligence.</em>
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+---
 
-*Focused on Literature Discovery, Autonomous Paper Generation & Peer Review*  
+## 📖 Overview & Ecosystem Focus
 
-**Last updated: October 2026**
+**Awesome-AI-Research-Tools** is a curated knowledge base indexing top **SaaS platforms** and **open-source repositories** powering modern scientific discovery. Researchers, PhD scholars, and ML engineers use these tools to:
+- 🔍 **Perform Semantic Literature Searches** beyond keyword matching.
+- 📊 **Synthesize Evidence** across hundreds of peer-reviewed papers with citation verification.
+- 🕸️ **Map Citation Landscapes** and explore co-citation clusters visually.
+- 🤖 **Deploy Autonomous AI Scientists** for hypothesis generation, experimentation, paper drafting, and automated peer review.
 
+---
 
+## 📑 Table of Contents
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Research Tools**. These tools enable researchers to search literature with semantic understanding, synthesize evidence across studies, visualize citation networks, and—at the frontier—autonomously generate research papers with simulated peer review.
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [💻 SaaS & Hosted Research Platforms](#-saas--hosted-research-platforms)
+- [🔓 Open-Source GitHub Repositories (Ranked by Stars)](#-open-source-github-repositories-ranked-by-stars)
+- [🛠️ Composable Research Frameworks](#️-composable-research-frameworks)
+- [📈 Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [☕ Support & Sponsorship](#-support--sponsorship)
+- [⚖️ Disclaimer](#️-disclaimer)
 
+---
 
-
-**Examples** include SciSpace, Elicit Pro, Consensus, Semantic Scholar, Research Rabbit, Scite.ai, Paperpal, Iris.ai, Scholarcy, and Connected Papers (the category leaders).
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, autonomous research generation, and open citation tooling—ideal for researchers, academics, and developers seeking transparent, vendor-independent research infrastructure.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
+## 🌐 Sector Overview & Market Dynamics
 
 The dedicated AI scientific literature review and academic research tooling market is estimated at approximately **$2.1 billion** (projected to reach ~$11.8 billion over the next decade at a >20% CAGR), within a broader AI in education and research infrastructure space exceeding tens of billions of dollars.
 
 The sector is currently **moderately-to-highly fragmented** rather than concentrated or winner-take-all; researchers routinely stitch together disparate point solutions for discovery, citation mapping, text synthesis, and manuscript preparation, though platform suites and legacy academic publishers are actively pursuing consolidation.
 
-## SaaS/Hosted Platforms
+---
+
+## 💻 SaaS & Hosted Research Platforms
+
+*Sorted in descending order by company scale, valuation, funding, or operating budget.*
 
 | Platform | Core Capabilities | Starting Paid Pricing | Free Tier Limits | Company Size (Revenue / Valuation / Funding) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -57,156 +69,107 @@ The sector is currently **moderately-to-highly fragmented** rather than concentr
 | **[Elicit Pro](https://elicit.com/)** | AI research assistant automating systematic literature reviews and structured information extraction across 125M+ papers | **$49/month** ($588 billed annually) or **$75/month** (billed monthly) for Pro tier | **Unlimited semantic search and paper summaries**, but advanced automated Research Reports and multi-paper extraction tables are capped to a **basic shared monthly credit pool** (~5,000 one-time/initial credits) | **Seed/Series-A venture backed** (Spun out from research lab Ought; backed by leading Silicon Valley AI angels and foundations) |
 | **[Connected Papers](https://www.connectedpapers.com/)** | Visual graph generator analyzing co-citation and bibliographic coupling to map academic fields | **$6/month** ($72 billed annually) for Personal tier or **$20/month** ($240 billed annually) for Business tier | **5 graph generations per month** (Includes unlimited views of previously generated graphs and derivative works) | **Bootstrapped profitable micro-startup** (Self-funded core team of 3–5 engineers/researchers; zero external VC funding raised) |
 
+---
 
+## 🔓 Open-Source GitHub Repositories (Ranked by Stars)
 
-## Open-Source GitHub Projects
+*Each repository displays a live star badge linking directly to its GitHub stargazers page. Sorted in descending order by GitHub stars.*
 
+- **[MetaGPT](https://github.com/geekan/MetaGPT)** [![Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers)  
+  🧠 **Multi-agent framework assigning software and research roles to LLMs** (MIT). Capable of multi-agent collaborative workflows, literature synthesis, and structured code/research task generation.
 
+- **[DSPy](https://github.com/stanfordnlp/dspy)** [![Stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=social&color=white)](https://github.com/stanfordnlp/dspy/stargazers)  
+  ⚡ **Stanford framework for programming—rather than prompting—foundation models** (MIT). Automates prompt optimization, systematic multi-hop retrieval, and scientific reasoning pipelines.
 
-- **[AI-Scientist-v2 (Sakana AI)](https://github.com/SakanaAI/AI-Scientist-v2)**  
+- **[GPT Researcher](https://github.com/assafelovic/gpt-researcher)** [![Stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social&color=white)](https://github.com/assafelovic/gpt-researcher/stargazers)  
+  🔍 **Autonomous agent that produces comprehensive, detailed research reports** (Apache-2.0). Employs parallel web scraping, 20+ source aggregation, citation tracking, and objective cross-verification.
 
-  **The most advanced open-source autonomous research paper generation and peer-review system** (Apache-2.0). **The first AI system to produce a workshop-level paper that passed peer review** —one of three fully AI-generated papers accepted at ICLR 2025 workshop . **Uses progressive agentic tree search** to autonomously generate research ideas, run experiments, analyze results, and write papers . **The system runs the entire research loop autonomously** —hypothesis generation, experimental design, code execution, result interpretation, and manuscript writing . **Includes automated peer-review simulation** for self-critique and improvement . **The definitive open-source implementation for autonomous scientific discovery.** **Note**: Requires significant compute for experimentation.
+- **[Zotero](https://github.com/zotero/zotero)** [![Stars](https://img.shields.io/github/stars/zotero/zotero?style=social&color=white)](https://github.com/zotero/zotero/stargazers)  
+  📚 **The standard open-source reference manager** (AGPL-3.0). Collect, organize, cite, and share research sources with browser integration and Word/LaTeX plugin synchronization.
 
+- **[AI-Scientist (Sakana AI v1)](https://github.com/SakanaAI/AI-Scientist)** [![Stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist?style=social&color=white)](https://github.com/SakanaAI/AI-Scientist/stargazers)  
+  🧪 **Foundational autonomous scientific research system** (Apache-2.0). Automates the complete research lifecycle from hypothesis ideation and code experimentation to manuscript compilation.
 
+- **[PaperQA2 (Future House)](https://github.com/Future-House/paper-qa)** [![Stars](https://img.shields.io/github/stars/Future-House/paper-qa?style=social&color=white)](https://github.com/Future-House/paper-qa/stargazers)  
+  📑 **High-accuracy open-source RAG system for scientific literature** (Apache-2.0). Outperforms standard LLMs on scientific QA benchmarks using agentic search, PDF extraction, and citation grounding.
 
-- **[PaperQA2 (Future House)](https://github.com/Future-House/paper-qa)**  
+- **[R2R](https://github.com/SciPhi-AI/R2R)** [![Stars](https://img.shields.io/github/stars/SciPhi-AI/R2R?style=social&color=white)](https://github.com/SciPhi-AI/R2R/stargazers)  
+  🔄 **Production-ready RAG engine with advanced multimodal search and citation support** (MIT). Built for enterprise and academic document retrieval pipelines with hybrid search and graph RAG.
 
-  **The most accurate open-source RAG system for scientific literature** (Apache-2.0). **Answers questions with citations from scientific PDFs** —retrieves, reads, and synthesizes across thousands of papers . **Outperforms GPT-4 on scientific Q&A benchmarks** . Features **agentic search**, **citation-grounded answers**, and **contradiction detection** . **The standard open-source tool for literature Q&A.**
+- **[AI-Scientist-v2 (Sakana AI)](https://github.com/SakanaAI/AI-Scientist-v2)** [![Stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2?style=social&color=white)](https://github.com/SakanaAI/AI-Scientist-v2/stargazers)  
+  🏆 **State-of-the-art autonomous research paper generation & peer-review system** (Apache-2.0). Features progressive agentic tree search and produced accepted papers at an ICLR 2025 workshop.
 
+- **[Zotero Better BibTeX](https://github.com/retorquere/zotero-better-bibtex)** [![Stars](https://img.shields.io/github/stars/retorquere/zotero-better-bibtex?style=social&color=white)](https://github.com/retorquere/zotero-better-bibtex/stargazers)  
+  📇 **Citation management extension for Zotero and LaTeX workflows** (MIT). Generates stable citation keys and automates continuous BibTeX/BibLaTeX library synchronization.
 
+- **[SciSpacy](https://github.com/allenai/scispacy)** [![Stars](https://img.shields.io/github/stars/allenai/scispacy?style=social&color=white)](https://github.com/allenai/scispacy/stargazers)  
+  🧬 **SpaCy models for scientific, biomedical, and clinical text processing** (Apache-2.0). Provides specialized NER, entity linking, and UMLS concept normalization for biomedical papers.
 
-- **[AI-Scientist (Sakana AI v1)](https://github.com/SakanaAI/AI-Scientist)**  
+- **[Scholarly](https://github.com/scholarly-python-package/scholarly)** [![Stars](https://img.shields.io/github/stars/scholarly-python-package/scholarly?style=social&color=white)](https://github.com/scholarly-python-package/scholarly/stargazers)  
+  🎓 **Python package for querying Google Scholar programmatically** (MIT). Extracts author profiles, citation metrics, co-author networks, and publication data.
 
-  **The original autonomous research paper generation system** (Apache-2.0). **The predecessor to AI-Scientist-v2** —demonstrated end-to-end paper generation with idea generation, experimentation, and manuscript writing . **The foundational implementation** for the autonomous research field.
+- **[PaperAI](https://github.com/neuml/paperai)** [![Stars](https://img.shields.io/github/stars/neuml/paperai?style=social&color=white)](https://github.com/neuml/paperai/stargazers)  
+  🤖 **AI-powered literature search, discovery, and indexation engine** (Apache-2.0). Builds indexable vector databases across medical and scientific papers for fast query extraction.
 
+- **[Arxiv.py](https://github.com/lukasschwab/arxiv.py)** [![Stars](https://img.shields.io/github/stars/lukasschwab/arxiv.py?style=social&color=white)](https://github.com/lukasschwab/arxiv.py/stargazers)  
+  📄 **Python wrapper for the arXiv API** (MIT). Seamlessly handles arXiv paper searches, article metadata harvesting, and automated PDF downloads.
 
+- **[OpenAlex](https://github.com/ourresearch/openalex-guts)** [![Stars](https://img.shields.io/github/stars/ourresearch/openalex-guts?style=social&color=white)](https://github.com/ourresearch/openalex-guts/stargazers)  
+  🌐 **Open scholarly index containing 250M+ scientific publications** (CC0). Fully open alternative to proprietary citation databases with extensive bibliographic graphs.
 
-- **[PaperQA](https://github.com/Future-House/paper-qa)**  
-
-  The original PaperQA implementation. See PaperQA2 above for the successor.
-
-
-
-- **[OpenAlex](https://github.com/ourresearch/openalex-guts)**  
-
-  **Open scholarly metadata covering 250M+ works** (CC0) . **The most comprehensive open-access research graph** —papers, authors, institutions, concepts, and citations . **Free API access** with no rate limits for reasonable use . **The open alternative to proprietary citation databases.**
-
-
-
-- **[Zotero](https://github.com/zotero/zotero)**  
-
-  **The standard open-source reference manager** (AGPL-3.0) . **Collect, organize, cite, and share research sources** —browser extension for one-click saving, Word/LibreOffice integration for citation insertion, and group libraries for collaboration . **The most widely adopted open-source citation tool.**
-
-
-
-- **[Scholarly](https://github.com/scholarly-python-package/scholarly)**  
-
-  **Python library for Google Scholar queries** (MIT) . Features **author profile extraction**, **publication parsing**, and **citation network exploration** . **The most accessible open-source Google Scholar interface.**
-
-
-
-- **[Arxiv.py](https://github.com/lukasschwab/arxiv.py)**  
-
-  **Python wrapper for the arXiv API** (MIT) . Features **paper search**, **metadata retrieval**, and **PDF download** . **The standard open-source tool for arXiv integration.**
-
-
-
-- **[PyPaperBot](https://github.com/ferreiradev/PyPaperBot)**  
-
-  **Download scientific papers using DOIs** (MIT) . Features **Sci-Hub integration**, **BibTeX generation**, and **batch downloads** . **The most practical open-source paper downloader.**
-
-
-
-- **[Zotero Better BibTeX](https://github.com/retorquere/zotero-better-bibtex)**  
-
-  **Citation management extension for Zotero** (MIT) . Features **BibTeX/BibLaTeX export**, **citation key generation**, and **LaTeX integration** . **The standard open-source citation workflow for LaTeX users.**
-
-
-
-- **[LitLLM (PolyU)](https://github.com/LitLLM/LitLLM)**  
-
-  **Open-source literature review assistant** (MIT) . Features **related work generation**, **citation retrieval**, and **RAG-based synthesis** . **The most focused open-source tool for related work sections.**
-
-
-
-- **[Guttenberg (Sakana AI)](https://github.com/SakanaAI/Guttenberg)**  
-
-  **Open-source autonomous research pipeline** (Apache-2.0) from Sakana AI. **Part of the AI-Scientist ecosystem** —automates literature review, hypothesis generation, and experimental design .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[SciPy](https://github.com/scipy/scipy)** — Foundational scientific computing library (BSD-3-Clause) for research workflows .
-
-- **[Pandas](https://github.com/pandas-dev/pandas)** — Data analysis library (BSD-3-Clause) for research data manipulation .
-
-- **[Jupyter](https://github.com/jupyter/notebook)** — Interactive computing environment (BSD-3-Clause) for reproducible research .
-
-- **[Snakemake](https://github.com/snakemake/snakemake)** — Workflow management for reproducible research (MIT) .
-
-- **[DVC](https://github.com/iterative/dvc)** — Data version control for ML experiments (Apache-2.0) .
-
-- **[MLflow](https://github.com/mlflow/mlflow)** — ML lifecycle management (Apache-2.0) for experiment tracking .
-
-- **[Papers with Code](https://github.com/paperswithcode/paperswithcode-data)** — ML paper and code repository (CC BY-SA 4.0) .
-
-- **[Connected Papers Alternatives](https://github.com/topics/literature-review)** — Community projects for literature visualization .
-
-- Community **n8n** workflows for literature monitoring and research alert automation.
-
-
-
-**Frameworks for building custom systems**: Combine **AI-Scientist-v2** for autonomous research generation with **PaperQA2** for literature Q&A, **OpenAlex** for scholarly metadata, **Zotero** for reference management, and **Snakemake** or **DVC** for reproducible experiments—creating a fully self-hosted, enterprise-grade AI research platform.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- AI research tools handling academic papers must comply with copyright law and publisher terms of service. **Autonomous paper generation raises authorship and attribution questions** —verify journal policies before submission.
-
-- **AI-Scientist-v2 is a genuine breakthrough.** One of three fully AI-generated papers passed peer review at ICLR 2025 workshop . **This is the first time an AI-generated paper has been accepted at a peer-reviewed venue** —a milestone for autonomous research.
-
-- **PaperQA2 outperforms GPT-4 on scientific Q&A.** It answers with citations from actual papers, not from training data . **Citation grounding is the difference between research and speculation.**
-
-- **OpenAlex is the open-access research graph.** 250M+ works under CC0—no rate limits, no paywalls, no vendor lock-in . **The open alternative to proprietary citation databases.**
-
-- **Citation context matters.** Scite.ai distinguishes supporting from contrasting citations . **A paper cited 100 times tells you nothing about whether those citations agree or disagree.**
-
-- **Autonomous research requires human oversight.** AI-Scientist-v2 generates papers, but **human researchers must validate findings, verify reproducibility, and take responsibility for publication** . AI is a tool, not an author.
-
-- Self-hosted open-source solutions require proper compute provisioning for AI-Scientist experiments, data management, and ongoing maintenance. **Research data may be subject to institutional review and data protection requirements.**
-
-
+- **[LitLLM](https://github.com/LitLLM/LitLLM)** [![Stars](https://img.shields.io/github/stars/LitLLM/LitLLM?style=social&color=white)](https://github.com/LitLLM/LitLLM/stargazers)  
+  ✍️ **Open-source literature review and related work generation assistant** (MIT). Automates citation retrieval, relevant literature mapping, and contextual RAG synthesis.
 
 ---
 
+## 🛠️ Composable Research Frameworks
 
+Build custom self-hosted research infrastructure by combining:
+1. **Agentic Generation & Discovery**: Combine `AI-Scientist-v2` or `GPT Researcher` for automated hypothesis testing and deep exploration.
+2. **Citation-Grounded Q&A**: Integrate `PaperQA2` and `R2R` with your institutional vector database.
+3. **Open Bibliographic Graphs**: Query `OpenAlex` and `Scholarly` without paywalls.
+4. **Reference Organization**: Maintain reproducible BibTeX pipelines with `Zotero` + `Better BibTeX`.
 
-**Made for researchers, academics, and developers building transparent AI research solutions.**  
+---
 
-Let's make AI Research Tools more open, data-driven, and citation-grounded.
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Research-Tools&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Research-Tools&type=date&legend=top-left)
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Help expand the AI research ecosystem:
+
+1. 🍴 **Fork** the repository.
+2. 🌿 **Create a branch** for your addition (`git checkout -b feature/add-new-tool`).
+3. 📝 **Add entries** following the format (include tool link, pricing, license, and concise description).
+4. 🚀 **Submit a Pull Request** with a clear explanation of why the tool is beneficial to researchers.
+
+Please star ⭐ the repository if you find it helpful!
+
+---
+
+## ☕ Support & Sponsorship
+
+Thank you for visiting and supporting this project! If you find this curated collection useful for your research, academic workflows, or engineering projects, please consider:
+- ⭐ **Starring** the repository to boost visibility.
+- 🍴 **Forking and sharing** with colleagues, research groups, and lab mates.
+- ☕ **Buying a coffee or sponsoring** future maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your backing directly supports continuous updates, community contributions, and expanding open research infrastructure!
+
+---
+
+## ⚖️ Disclaimer
+
+- This is a **community-curated index** for informational and educational purposes; inclusion does not constitute a commercial endorsement.
+- Automated AI research systems must adhere to academic integrity guidelines, ethical research standards, and publisher licensing terms.
+- Grounding AI outputs with verified scientific citations remains essential to prevent synthetic hallucination.
+
+---
+
+<p align="center">
+  <strong>Made with ❤️ for researchers, academics, and developers building transparent AI research solutions.</strong>
+</p>
