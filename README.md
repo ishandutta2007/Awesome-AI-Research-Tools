@@ -30,77 +30,32 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The dedicated AI scientific literature review and academic research tooling market is estimated at approximately **$2.1 billion** (projected to reach ~$11.8 billion over the next decade at a >20% CAGR), within a broader AI in education and research infrastructure space exceeding tens of billions of dollars.
+
+The sector is currently **moderately-to-highly fragmented** rather than concentrated or winner-take-all; researchers routinely stitch together disparate point solutions for discovery, citation mapping, text synthesis, and manuscript preparation, though platform suites and legacy academic publishers are actively pursuing consolidation.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Elicit Pro](https://elicit.com/)**  
-
-  **AI research assistant that automates literature reviews.** Searches 125M+ papers, extracts key information into structured tables, and synthesizes findings across studies. **The most focused tool for systematic review workflows.**
-
-
-
-- **[Consensus](https://consensus.app/)**  
-
-  **AI search engine that answers questions from peer-reviewed research.** Features **Consensus Meter** showing the degree of scientific agreement, **Study Snapshots** with key findings, and citation-backed answers. **The most transparent approach to evidence synthesis.**
-
-
-
-- **[SciSpace](https://typeset.io/)**  
-
-  AI research assistant with **Copilot** for paper Q&A, **Paraphraser** for rewriting, and **AI Detector**. Features literature review tables and citation generation.
-
-
-
-- **[Semantic Scholar](https://www.semanticscholar.org/)**  
-
-  **Free AI-powered research tool from Allen Institute for AI.** Features **Semantic Reader** with citation context, **TLDR summaries**, **Paper Recommendations**, and **API access**. **The most comprehensive open-access research graph** with 200M+ papers.
-
-
-
-- **[Research Rabbit](https://www.researchrabbit.ai/)**  
-
-  **Visual literature discovery and mapping.** Creates networks of related papers based on citations and co-authorship. **The most intuitive tool for exploring research landscapes.**
-
-
-
-- **[Scite.ai](https://scite.ai/)**  
-
-  **Smart Citations showing how papers have been cited**—supporting, contrasting, or mentioning. **The most rigorous approach to citation context analysis.** Features citation statements extracted from full text.
-
-
-
-- **[Paperpal](https://paperpal.com/)**  
-
-  AI academic writing assistant with grammar checking, language polishing, and submission readiness checks. **The most focused tool for manuscript preparation.**
-
-
-
-- **[Iris.ai](https://iris.ai/)**  
-
-  AI research assistant with **Research Assistant** for literature mapping and **Tools for Researchers** including paper summarization and dataset exploration.
-
-
-
-- **[Scholarcy](https://www.scholarcy.com/)**  
-
-  AI-powered article summarization with **flashcard generation**, **key term extraction**, and **reference linking**. **The most focused tool for rapid paper triage.**
-
-
-
-- **[Connected Papers](https://www.connectedpapers.com/)**  
-
-  **Visual exploration of academic papers**—generates a graph of related work based on citations and co-citations. **The most intuitive tool for literature mapping.**
+| Platform | Core Capabilities | Starting Paid Pricing | Free Tier Limits | Company Size (Revenue / Valuation / Funding) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Semantic Scholar](https://www.semanticscholar.org/)** | Open-access research graph covering 200M+ papers with Semantic Reader, TLDR summaries, recommendations, and API access | **$0/month** (Fully free, non-profit public good by AI2; commercial high-throughput API access requires partner licensing) | **Unlimited full-feature free access** (No paywall for web discovery; standard academic API access with free rate limits of 1 request/sec or 100 requests/5 min) | **~$150M–$205M annual budget** (Operated by the Allen Institute for AI / AI2; backed by $150M+ endowments and major institutional grants) |
+| **[Paperpal](https://paperpal.com/)** | AI academic writing and editing assistant offering grammar correction, language polishing, and submission readiness checks | **$12/month** ($144 billed annually) or **$25/month** (billed monthly) for Prime tier | **200 language edits/month**, **5 AI agent uses/day** (paraphrase, trim, translate), **5 paper Q&A uses/day**, up to **5 file uploads/month** (300 MB total storage) | **~$95M–$100M annual revenue** (Parent company Cactus Communications reports ~₹825 Cr FY25 revenue; bootstrapped global enterprise) |
+| **[Consensus](https://consensus.app/)** | AI search engine querying 200M+ peer-reviewed papers with Consensus Meter agreement metrics and study snapshots | **$12/month** ($144 billed annually) or **$20/month** (billed monthly) for Pro tier | **Unlimited basic paper searches**, capped at **10 Pro AI messages/month** and **3 Deep Review syntheses/month** | **~$40M+ estimated valuation / $30M+ funding** (Backed by Union Square Ventures & GreatPoint Ventures; reported ~$1.5M ARR with 400k+ MAU) |
+| **[Iris.ai](https://iris.ai/)** | Comprehensive AI research assistant and RSpace workspace for scientific text understanding, literature mapping, and data extraction | **€292/month** (~€3,500 billed annually) for Individual Research Membership; enterprise Axion tiers on custom quote | **10-day free trial** for premium individual membership (access to full RSpace toolset); free account access restricted to basic text exploration with capped token queries | **~$22M–$24M total funding / ~$4M ARR** (Raised €7.64M Series A in 2024 backed by EIC Fund & Silverline Capital; ~35-40 employees) |
+| **[Scite.ai](https://scite.ai/)** | Smart Citations indicating supporting, contrasting, or mentioning context extracted from full-text papers | **$14/month** ($168 billed annually) or **$20/month** (billed monthly) for Individual tier | **7-day free trial** of premium features (Smart Citations & Assistant); free registered accounts limited to public paper citation metadata lookups | **$20.9M acquisition transaction value** (Acquired in Nov 2023 by Research Solutions, NASDAQ: RSSS; reported ~$3.6M ARR prior to acquisition) |
+| **[SciSpace](https://typeset.io/)** | Academic copilot for paper Q&A, literature review matrix extraction, AI paraphrasing, and citation generation | **$12/month** ($144 billed annually) or **$20/month** (billed monthly) for Premium tier | **100 credits/month** (Credits consumed per Copilot chat, literature extraction query, and paraphraser action; renews monthly) | **~$5M–$10M estimated funding** (Formerly Typeset; raised Seed and Series A institutional rounds; 10M+ registered users) |
+| **[Scholarcy](https://www.scholarcy.com/)** | AI article summarizer generating structured research flashcards, key findings, and reference links from PDFs | **$9.99/month** (or ~$7.50/month billed annually) for Scholarcy Plus | **1 summary per day** (up to ~10 summaries total on free tier), maximum file upload size of **11 MB**, single flashcard exports only | **Acquired enterprise subsidiary** (Acquired in 2024 by Texthelp Group; previously bootstrapped UK startup with 600k+ users; ARR estimated ~$1M–$2M) |
+| **[Research Rabbit](https://www.researchrabbit.ai/)** | Interactive visual literature mapping and citation/co-authorship network discovery ("Spotify for Papers") | **$10/month** for RR+ tier (regional parity discounts available in 100+ countries) | **Free forever plan** with unlimited paper discovery & mapping, up to **50 seed articles per collection**, and full Zotero syncing | **Acquired subsidiary / $1M+ funding** (Acquired by Litmaps in 2024; combined user network exceeding 2M researchers) |
+| **[Elicit Pro](https://elicit.com/)** | AI research assistant automating systematic literature reviews and structured information extraction across 125M+ papers | **$49/month** ($588 billed annually) or **$75/month** (billed monthly) for Pro tier | **Unlimited semantic search and paper summaries**, but advanced automated Research Reports and multi-paper extraction tables are capped to a **basic shared monthly credit pool** (~5,000 one-time/initial credits) | **Seed/Series-A venture backed** (Spun out from research lab Ought; backed by leading Silicon Valley AI angels and foundations) |
+| **[Connected Papers](https://www.connectedpapers.com/)** | Visual graph generator analyzing co-citation and bibliographic coupling to map academic fields | **$6/month** ($72 billed annually) for Personal tier or **$20/month** ($240 billed annually) for Business tier | **5 graph generations per month** (Includes unlimited views of previously generated graphs and derivative works) | **Bootstrapped profitable micro-startup** (Self-funded core team of 3–5 engineers/researchers; zero external VC funding raised) |
 
 
 
